@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I am a Software Developer with over 4 years of experience, I am a highly skilled programmer in HTML, CSS, Javascript, and PHP. My expertise in Bootstrap, ReactS, NextS, ReactNative, Nodejs, Laravel, and Jquery has helped me achieve numerous successful projects. Web Application, Responsive Website, and Mobile Application.</h1>
+<h1 align="center">Hi 👋, I'm I am a Software Developer with over 4 + years of experience, I am a highly skilled programmer in HTML, CSS, Javascript, and PHP. My expertise in Bootstrap, ReactS, NextS, ReactNative, Nodejs, Laravel, and Jquery has helped me achieve numerous successful projects. Web Application, Responsive Website, and Mobile Application.</h1>
 <h3 align="center">I am a professional fullstack developer with over four + years plus of experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramondev180&label=Profile%20views&color=0e75b6&style=flat" alt="ramondev180" /> </p>
