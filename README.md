@@ -13,13 +13,7 @@ Ramon Adeyemi is my name, but you can call me RamonDev. I have experience as a F
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramondev180&show_icons=true&locale=en&layout=compact" alt="ramondev180" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramondev180&show_icons=true&locale=en" alt="ramondev180" /></p>
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramondev180&" alt="ramondev180" /></p>
 
 
 ---
