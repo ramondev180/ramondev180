@@ -1,6 +1,6 @@
 # 💫 About Me:
-Ramon Adeyemi is my name, but you can call me RamonDev. I have experience as a Fullstack Developer. I know PHP, JavaScript, CSS, and HTML, and I construct excellent websites and web apps using libraries like Laravel, Nodejs, Bootstrap, React, and NextJS. I also do web design. I'm enthusiastic about developing high-quality software that addresses real-world challenges.
-
+Hi! I’m Ramon, a web developer who loves creating fast and easy-to-use websites. I work with Next.js, Django, and Laravel, and I know programming languages like JavaScript, Python, and PHP.
+I enjoy learning new technologies, solving problems, and building websites that work well. I love the challenge of turning ideas into something real and useful.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ramon.adeyemi.56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramon_dev_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramon-adeyemi-b06b7b23a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15191494) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ramondev_180) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ramonDev180) 
